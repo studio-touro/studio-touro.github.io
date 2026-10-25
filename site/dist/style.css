@@ -12,3 +12,7 @@ footer .logo .brand-logo{width:264px}
 @media(max-width:360px){header .brand-logo{width:200px}}
 
 .hero-film{position:relative;width:100%;aspect-ratio:16/9;overflow:hidden;background:#efe8d6}.hero-film video{display:block;width:100%;height:100%;object-fit:contain}.hero-film button{position:absolute;right:12px;bottom:12px;border:1px solid #d5d3c9;background:#f5f2e9ed;color:#272b27;border-radius:30px;padding:10px 15px;font-size:11px}.hero-film{animation:enter .9s .12s ease both}@media(max-width:720px){.hero-film{margin-bottom:15px}.hero-film button{font-size:10px;padding:8px 12px}}
+
+/* Finished key visuals: show the complete poster, including its title. */
+.art.work-poster{background:transparent}
+.art.work-poster img{display:block}
